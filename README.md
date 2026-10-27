@@ -6,9 +6,9 @@
 
 ---
 
-## ✨ Features Overview
+## Features Overview
 
-### 🧮 14 Built-in Calculators
+### 14 Built-in Calculators
 
 | # | Tool | Purpose |
 |---|------|---------|
@@ -29,7 +29,7 @@
 
 ---
 
-## 🚀 Key Highlights
+## Key Highlights
 
 - ✅ **100% Offline** — No internet required. Works entirely in the browser.
 - ✅ **Single-File Deployment** — One HTML file. No build tools, no dependencies.
@@ -44,7 +44,7 @@
 
 ---
 
-## 🛠️ Technical Details
+## Technical Details
 
 | Property | Value |
 |----------|-------|
@@ -59,7 +59,7 @@
 
 ---
 
-## 📦 Installation
+## Installation
 
 ### Option 1: Direct HTML Usage
 1. Download `cctv-technician-calculator.html`
@@ -80,7 +80,7 @@
 
 ---
 
-## 🧪 Formula Validation
+## Formula Validation
 
 Each calculator includes verified formula regression tests during development. Test cases cover:
 
@@ -101,7 +101,7 @@ Each calculator includes verified formula regression tests during development. T
 
 ---
 
-## ⚠️ Important Disclaimers
+## Important Disclaimers
 
 > **This calculator is for planning and estimation purposes only.**
 >
@@ -113,23 +113,23 @@ Each calculator includes verified formula regression tests during development. T
 
 ---
 
-## 📄 License
+## License
 
 This project is released for educational and professional use. See `LICENSE` file for details.
 
 ---
 
-## 👨‍💻 Credits
+## Credits
 
 **Developed by [OnexusDev](https://onexusdev.xyz) X Moursalin Islam**
 
-- 🌐 Website: [onexusdev.xyz](https://onexusdev.xyz)
-- 📹 Category: CCTV / Security Systems / Field Tools
-- 🛠️ Built with: HTML, CSS, JavaScript (no frameworks)
+- Website: [onexusdev.xyz](https://onexusdev.xyz)
+- Category: CCTV / Security Systems / Field Tools
+- Built with: HTML, CSS, JavaScript (no frameworks)
 
 ---
 
-## 🔗 Related Projects
+## Related Projects
 
 - [CCTV Storage Calculator](#)
 - [PoE Budget Planner](#)
@@ -137,7 +137,7 @@ This project is released for educational and professional use. See `LICENSE` fil
 
 ---
 
-## 📌 Version
+## Version
 
 **v1.0.0** — Initial release with 14 calculators, bilingual UI, print support, and formula validation.
 
